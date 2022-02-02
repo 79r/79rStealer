@@ -1,2 +1,2 @@
 # 79rStealer
-[Discord Link](https://discord.gg/Sh236kfpvK)
+## [Discord Link](https://discord.gg/Sh236kfpvK)
