@@ -1,1 +1,1 @@
-## [DISCORD LINK](https://discord.gg/Sh236kfpvK)
+## [Discord Link](https://discord.gg/Sh236kfpvK)
