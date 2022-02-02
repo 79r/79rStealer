@@ -1,2 +1,2 @@
-# 79rStealer
-## [Discord Link](https://discord.gg/Sh236kfpvK)
+## [DISCORD LINK](https://discord.gg/Sh236kfpvK)
+####JOIN FOR DOWNLOAD / SOURCE / BUILDER
